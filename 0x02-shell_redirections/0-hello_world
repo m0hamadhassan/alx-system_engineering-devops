@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello, World' >std.txt | cat std.txt'> 0-ls
+echo 'Hello, World' >std.txt | cat std.txt
