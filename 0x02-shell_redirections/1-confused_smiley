@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '"\(Ôo)'\' >std.txt | cat std.txt
+echo '"(Ôo)'\' >std.txt | cat std.txt
